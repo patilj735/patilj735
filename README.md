@@ -3,7 +3,7 @@
 # Hello, I'm Janhavi Patil 👋
 ### Building Secure, Scalable Backend Architectures & Intuitive Web Experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineering+Student;Focused+on+Backend+Architecture;Building+Secure+&+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineering+Student;Focused+on+Backend+Architecture;Building+Secure+Scalable+Solutions" alt="Typing SVG" />
 
 </div>
 
