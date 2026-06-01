@@ -1,18 +1,20 @@
  ## Hi there 👋 I'm Janhavi Patil
 
+---
+
 ## 🌟 About Me
 
-🌐 I’m a curious and driven **full-stack developer** who loves turning ideas into real, functional, and visually engaging applications.  
-My core strength lies in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, where I enjoy building smooth user experiences backed by efficient, scalable backend logic.
+<p align="left">
+ 
+ 🚀 **Full-Stack Developer** building scalable web applications and robust backend architectures.  
+💡 Expert in the **MERN stack** with a strong foundation in **Java-based system design** and **MySQL**.  
+🛠️ Focused on crafting clean, modular code for intuitive UI/UX and efficient logic.  
+🌱 Currently deepening expertise in **Data Structures & Algorithms (Java)**.  
+🎯 Driven by solving real-world challenges through performant and secure software solutions.
 
-💡 Alongside modern web technologies, I also have hands-on experience with **Java (Swing GUI)** integrated with **MySQL**, allowing me to blend frontend creativity with robust backend engineering.
+</p>
 
-🚀 I regularly work on real-world projects — from dashboards, authentication systems, and full-stack platforms to interactive UIs designed with **Tailwind CSS** and **React**.  
-I aim to write **clean, modular code** that is easy to maintain and scale.
-
-📘 Currently, I’m dedicating time to strengthening my **Data Structures & Algorithms (Java)** foundation to enhance my problem-solving and technical depth.
-
-🌱 I enjoy learning, experimenting, and constantly improving my craft — whether it’s backend architecture, frontend performance, or new tools that make development smarter and faster.
+---
 
 ## 🌐 Connect With Me
 
