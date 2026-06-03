@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=patilj735&theme=github_dark_dimmed&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=patilj735&theme=radical&border_radius=10" />
 </p>
 
 ---
