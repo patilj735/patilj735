@@ -36,10 +36,10 @@
 
 <div align="left">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-F9A825?style=for-the-badge&logo=leetcode&logoColor=black)]([[YOUR_LEETCODE_URL](https://leetcode.com/u/janhavi73)]) 
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]([[YOUR_GFG_URL](https://www.geeksforgeeks.org/user/janhavipa7ppx)]) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]([[YOUR_HACKERRANK_URL](https://www.hackerrank.com/profile/janhavipatil7305)]) 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)]([[YOUR_CODECHEF_URL](https://www.codechef.com/users/patiljanhavi)])
+[![LeetCode](https://img.shields.io/badge/LeetCode-F9A825?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/janhavi73) 
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/janhavipa7ppx) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/janhavipatil7305)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/patiljanhavi)
 
 </div>
 
@@ -100,15 +100,13 @@
   <img src="https://streak-stats.demolab.com?user=patilj735&theme=radical&border_radius=10" />
 </p>
 
----
-
-
+<!--
 ##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilj735&theme=github-dark-dimmed&hide_border=true&area=true" />
 </div>
-
+-->
 ---
 
 
