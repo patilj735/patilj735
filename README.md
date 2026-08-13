@@ -90,23 +90,25 @@
 ---
 
 ## 📊 Developer Metrics
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patilj735&show_icons=true&theme=github_dark_dimmed" height="165"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patilj735&layout=compact&theme=github_dark_dimmed" height="165"/>
 </p>
 
+-->
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=patilj735&theme=radical&border_radius=10" />
 </p>
 
-<!--
+
 ##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilj735&theme=github-dark-dimmed&hide_border=true&area=true" />
 </div>
--->
+
 ---
 
 
