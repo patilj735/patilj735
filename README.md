@@ -44,6 +44,7 @@
 </div>
 
 ---
+<!--
 
 ## 🛠️ Tech Stack
 
@@ -61,14 +62,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
--->
+
 ### ⚙️ Backend Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☕ Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -87,6 +90,44 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
+-->
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" height="44" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" height="44" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="44" />
+</p>
+
+### ☕ Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,python,c" height="44" />
+</p>
+
+### 🧰 Tools & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws" height="44" />
+</p>
+
+### 🔧 Additional Experience
+
+`Java Swing`  ·  `JDBC`  ·  `REST APIs`  ·  `NetBeans`
+
+
 ---
 
 ## 📊 Developer Metrics
@@ -97,18 +138,17 @@
 </p>
 
 -->
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=patilj735&theme=radical&border_radius=10" />
 </p>
 
-
+<!--
 ##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilj735&theme=github-dark-dimmed&hide_border=true&area=true" />
 </div>
-
+-->
 ---
 
 
@@ -124,6 +164,7 @@
   Crafted by <b>Janhavi Patil</b> | © 2026 ⚡<br>
   <i>Turning complex requirements into elegant solutions.</i> 🛠️🧠
 </p>
+
 <!--
 ## Hi there 👋
 
