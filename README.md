@@ -114,7 +114,7 @@
 ### ☕ Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,python,c" height="44" />
+  <img src="https://skillicons.dev/icons?i=java,ts,python,c,c#" height="44" />
 </p>
 
 ### 🧰 Tools & Cloud
