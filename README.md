@@ -3,7 +3,11 @@
 # Hello, I'm Janhavi Patil 👋
 ### Building Secure, Scalable Backend Architectures & Intuitive Web Experiences
 
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineering+Student;Focused+on+Backend+Architecture;Building+Secure+Scalable+Solutions" alt="Typing SVG" />
+-->
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineering+Student;Focused+on+Backend+Development;Building+Secure+%26+Scalable+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -130,7 +134,7 @@
 -->
 
 ---
-
+<!--
 ## 📊 Developer Metrics
 <!--
 <p align="center">
@@ -138,11 +142,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patilj735&layout=compact&theme=github_dark_dimmed" height="165"/>
 </p>
 
--->
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=patilj735&theme=radical&border_radius=10" />
 </p>
-
+-->
 <!--
 ##  Contribution Graph
 
