@@ -90,7 +90,7 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
--->
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
@@ -127,6 +127,7 @@
 
 `Java Swing`  ·  `JDBC`  ·  `REST APIs`  ·  `NetBeans`
 
+-->
 
 ---
 
@@ -149,6 +150,50 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilj735&theme=github-dark-dimmed&hide_border=true&area=true" />
 </div>
 -->
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="44" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" height="44" />
+</p>
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,cs,ts,js" height="44" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="44" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel" height="44" />
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="44" />
+</p>
+
+### 🔧 Additional Experience
+
+`ASP.NET Core` · `Entity Framework Core` · `REST APIs` · `LINQ` · `JDBC` · `Java Swing` · `NetBeans`
+
+
 ---
 
 
