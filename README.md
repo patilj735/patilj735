@@ -13,19 +13,25 @@
 
 ---
 
+
 ## 🌟 About Me
 
 <p align="left">
  
- 🚀 **Full-Stack Developer** building scalable web applications and robust backend architectures.  
-💡 Expert in the **MERN stack** with a strong foundation in **Java-based system design** and **MySQL**.  
-🛠️ Focused on crafting clean, modular code for intuitive UI/UX and efficient logic.  
-🌱 Currently deepening expertise in **Data Structures & Algorithms (Java)**.  
-🎯 Driven by solving real-world challenges through performant and secure software solutions.
+🚀 Full-Stack Developer & Computer Engineering Student building practical web applications with a focus on scalable backend systems and clean architecture.
+
+💻 Experienced in developing projects using the MERN stack, Java, REST APIs, and MySQL, with hands-on exposure to AWS cloud services.
+
+🛠️ Focused on writing maintainable code, designing reliable APIs, and building responsive, user-centered applications.
+
+📈 Strengthening Data Structures & Algorithms in Java, alongside backend development and C#/.NET skills.
+
+🎯 Seeking software engineering opportunities to contribute to real-world products, improve engineering practices, and deliver measurable value.
 
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -35,6 +41,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavipatil7305@gmail.com)
 
 ---
+
 
 ### 🧠 Coding Profiles
 
@@ -48,90 +55,6 @@
 </div>
 
 ---
-<!--
-
-## 🛠️ Tech Stack
-
-### 🖥️ Frontend  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<!--
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-444?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### ⚙️ Backend Architecture
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☕ Programming Languages
-![Java](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🧰 Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
-
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" height="44" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" height="44" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="44" />
-</p>
-
-### ☕ Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,python,c,c#" height="44" />
-</p>
-
-### 🧰 Tools & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws" height="44" />
-</p>
-
-### 🔧 Additional Experience
-
-`Java Swing`  ·  `JDBC`  ·  `REST APIs`  ·  `NetBeans`
-
--->
 
 
 <!--
